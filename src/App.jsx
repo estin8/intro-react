@@ -90,7 +90,7 @@ class App extends React.Component {
         <div className="Box Box--spacious f4">
           <div className="Box-header">
             {<h3 classname="Box-title d-flex flex-justify center">
-              Gradebook
+              Gradebook 
               </h3>}
           </div>
         </div>
